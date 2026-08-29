@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
