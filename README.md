@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0550-game-play-analysis-iv](https://github.com/Vishnkant790/DSA_PRact/tree/master/0550-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
