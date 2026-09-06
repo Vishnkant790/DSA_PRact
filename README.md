@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/Vishnkant790/DSA_PRact/tree/master/0550-game-play-analysis-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
