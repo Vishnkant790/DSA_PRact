@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
+| [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
