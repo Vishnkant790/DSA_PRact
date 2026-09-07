@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
