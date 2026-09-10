@@ -30,8 +30,7 @@ class Solution:
         while i > 0:
             c = str1[i-1] + c
             i -= 1
-
-# Bacha hua str2 ka prefix agar hai
+            
         while j > 0:
             c = str2[j-1] + c
             j -= 1
