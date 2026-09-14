@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vishnkant790/DSA_PRact/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
