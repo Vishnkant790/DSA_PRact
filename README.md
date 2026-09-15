@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 | [1092-shortest-common-supersequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
 ## Array
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,18 +124,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
