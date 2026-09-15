@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
