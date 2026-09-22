@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishnkant790/DSA_PRact/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1092-shortest-common-supersequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
