@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
 |  |
@@ -170,8 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
