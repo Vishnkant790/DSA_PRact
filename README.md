@@ -68,16 +68,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vishnkant790/DSA_PRact/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
