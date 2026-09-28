@@ -10,22 +10,21 @@ class Solution:
         while j < len(s2):
             if s2[j] in dict:
                 dict[s2[j]] -=1
-                if dict[s2[j]] ==0:
+                if dict[s2[j]] == 0:
                     c-=1
-
-            if j-i+1 > k:
+            
+            if j-i +1 >k:
                 if s2[i] in dict:
-                    if dict[s2[i]] == 0:
+                    if dict[s2[i]] ==0:
                         c+=1
                     dict[s2[i]] +=1
                 i+=1
-            if c== 0:
-                l.append(i)
-                
-            j+=1
-        return l
             
+            if c ==0 :
+                l.append(i)
+            j+=1
 
+        return l
 
 
 
