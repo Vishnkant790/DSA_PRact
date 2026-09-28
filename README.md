@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishnkant790/DSA_PRact/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/1143-longest-common-subsequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnkant790/DSA_PRact/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
