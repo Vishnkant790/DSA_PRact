@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishnkant790/DSA_PRact/tree/master/0144-binary-tree-preorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
