@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vishnkant790/DSA_PRact/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vishnkant790/DSA_PRact/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vishnkant790/DSA_PRact/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnkant790/DSA_PRact/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -197,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
