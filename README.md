@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Vishnkant790/DSA_PRact/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishnkant790/DSA_PRact/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Vishnkant790/DSA_PRact/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vishnkant790/DSA_PRact/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Vishnkant790/DSA_PRact/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
