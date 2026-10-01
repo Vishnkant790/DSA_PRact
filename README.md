@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishnkant790/DSA_PRact/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishnkant790/DSA_PRact/tree/master/1248-count-number-of-nice-subarrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
