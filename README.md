@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vishnkant790/DSA_PRact/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Vishnkant790/DSA_PRact/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishnkant790/DSA_PRact/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
