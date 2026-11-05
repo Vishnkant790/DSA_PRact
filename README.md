@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Vishnkant790/DSA_PRact/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vishnkant790/DSA_PRact/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
@@ -232,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
