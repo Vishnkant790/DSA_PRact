@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-last-stone-weight-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishnkant790/DSA_PRact/tree/master/1248-count-number-of-nice-subarrays) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Vishnkant790/DSA_PRact/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishnkant790/DSA_PRact/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishnkant790/DSA_PRact/tree/master/0451-sort-characters-by-frequency) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Vishnkant790/DSA_PRact/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -236,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Vishnkant790/DSA_PRact/tree/master/1921-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
