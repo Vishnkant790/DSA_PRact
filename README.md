@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Vishnkant790/DSA_PRact/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
+| [0120-triangle](https://github.com/Vishnkant790/DSA_PRact/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0416-partition-equal-subset-sum) |
