@@ -9,9 +9,9 @@ class Solution:
                     dp[i][j] = grid[0][0]
 
                 else:
-                    up = grid[i][j] + (dp[i-1][j] if i > 0 else (float("inf")))
-                    left = grid[i][j] + (dp[i][j-1] if j > 0 else (float("inf")))
-                    dp[i][j] = min(up,left)
+                    down = grid[i][j] + (dp[i-1][j] if i > 0 else (float("inf")))
+                    right = grid[i][j] + (dp[i][j-1] if j > 0 else (float("inf")))
+                    dp[i][j] = min(down,right)
 
         return dp[m-1][n-1]
 
