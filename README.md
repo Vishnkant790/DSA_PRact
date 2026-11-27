@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vishnkant790/DSA_PRact/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/Vishnkant790/DSA_PRact/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Vishnkant790/DSA_PRact/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vishnkant790/DSA_PRact/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0095-unique-binary-search-trees-ii) |
 | [0322-coin-change](https://github.com/Vishnkant790/DSA_PRact/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Vishnkant790/DSA_PRact/tree/master/0392-is-subsequence) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vishnkant790/DSA_PRact/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vishnkant790/DSA_PRact/tree/master/0055-jump-game) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Vishnkant790/DSA_PRact/tree/master/1921-eliminate-maximum-number-of-monsters) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Vishnkant790/DSA_PRact/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
